@@ -8,3 +8,4 @@ It made with following:
 - TestNG (Data Provider)
 - SLF4J
 - AssertJ
+- Jenkins
